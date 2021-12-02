@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hi__background {
-  background: url("../../img/01.jpg") 50% no-repeat;
+  background: url("../img/01.jpg") 50% no-repeat;
 }
 .hi__menu {
   height: 100px;
